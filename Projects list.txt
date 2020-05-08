@@ -1,0 +1,59 @@
+Arduino 
+====================================================================
+Memorizing game [just digital input and output]
+
+Leds(RED, Green, BLUE, YELLOW)
+Switches X 4
+resistor
+Arduino Nano
+---------------------------------------------------------------------
+Automatic Street light basic and advance[analog input and output]
+
+LDR module
+Arduino nano 
+relay
+LED's
+resistors
+----------------------------------------------------------------------
+measure distance contact free[ultrasonic sensor]
+
+Ultrasonic sensor
+buzzer
+arduino nano
+oled display
+----------------------------------------------------------------------
+digital clock with RTC [RTC and OLED display]
+
+RTC 
+oled 0.96
+Arduino nano
+----------------------------------------------------------------------
+Building a calculator 
+
+arduino nano
+LCD 16X2
+keypad 4x4
+
+=======================================================================
+
+NodeMCU
+
+=======================================================================
+
+wifi jammer [beginner level project]
+
+NodeMCU
+-----------------------------------------------------------------------
+Home automation [appliance control Local webserver]
+Relay module 2channel
+NodeMCU
+-----------------------------------------------------------------------
+build weather monitor [using rest API]
+0.96 oled 
+nodeMCU
+DHT11
+-----------------------------------------------------------------------
+Message notifier [firebase]
+0.96 oled 
+nodeMCU
+-----------------------------------------------------------------------
